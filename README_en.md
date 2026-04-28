@@ -38,8 +38,8 @@ YOLOv8-Segmentation-Mosaic/
 ├── 📂 PPT和作图/              # Project Presentation PPT
 ├── 📂 视频说明/               # Feature Overview and Demo Videos
 ├── 📂 demo/                 # Store all presentation materials (GIFs, MP4s, etc.)
-├── 📄 README.md        # Project Description Document (English)
-└── 📄 README_zh.md     # Project Description Document (Chinese)
+├── 📄 README.md        # Project Description Document (Chinese)
+└── 📄 README_en.md     # Project Description Document (English)
 ```
 </details>
 
