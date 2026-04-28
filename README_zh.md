@@ -334,7 +334,7 @@ python prediction_mosaic_dlc_up.py
 
 </details>
 
-
+<br/>
 
 <details open>
 <summary style="font-size: 1.17em;"><b>2. 视频打码</b></summary>
@@ -360,6 +360,8 @@ python prediction_mosaic_dlc_up.py
 </details>
 
 ---
+
+<br/>
 
 ## 数据集
 
