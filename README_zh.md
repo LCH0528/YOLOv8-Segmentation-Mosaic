@@ -203,8 +203,11 @@ single_color_list = ["g", "r", "c"]  # 每个类别对应一个颜色
 
 <details open>
 <summary><b>v3.0优化版 (prediction_mosaic_dlc_up.py) 参数设置</b></summary>
-
+<br/>
+           
 > **核心改进**: v3.0优化版将v2.0增强版中分离的模式1和模式2颜色设置统一为`self_mosaic_colors`参数，通过列表长度自动判断是单色还是多色模式，大大简化了配置。
+
+<br/>
 
 ```python
 # 模式配置
