@@ -160,6 +160,8 @@ if __name__ == '__main__':
 <details open>
 <summary><b>v1.0基础版 (prediction_mosaic.py) 参数设置</b></summary>
 
+<br/>
+
 ```python
 # 打码尺寸（图片先缩小时的尺寸）
 mosaic_size = 64
@@ -169,6 +171,8 @@ mosaic_size = 64
 
 <details open>
 <summary><b>v2.0增强版 (prediction_mosaic_dlc.py) 参数设置</b></summary>
+
+<br/>
 
 ```python
 # 模式配置
@@ -203,6 +207,7 @@ single_color_list = ["g", "r", "c"]  # 每个类别对应一个颜色
 
 <details open>
 <summary><b>v3.0优化版 (prediction_mosaic_dlc_up.py) 参数设置</b></summary>
+           
 <br/>
            
 > **核心改进**: v3.0优化版将v2.0增强版中分离的模式1和模式2颜色设置统一为`self_mosaic_colors`参数，通过列表长度自动判断是单色还是多色模式，大大简化了配置。
@@ -272,6 +277,8 @@ python prediction_mosaic_dlc_up.py
 <details open>
 <summary><b>运行后将生成如下文件结构</b></summary>
 
+<br/>
+
 ```plaintext
 📂 predict_files/             # 输入文件与输出结果目录（也可从其他路径引入输入文件）
 ├── 📂 picture/               # 输入的素材图片
@@ -326,7 +333,7 @@ python prediction_mosaic_dlc_up.py
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">否<br>(纯打码效果)</td>
+      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">否</td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%200%20alpha%201).jpg" target="_blank">
           <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic image (mode 0 alpha 1).jpg" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
@@ -344,7 +351,7 @@ python prediction_mosaic_dlc_up.py
       </td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">是<br>(含分割显示)</td>
+      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">是</td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%200%20alpha%201).jpg" target="_blank">
           <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference (mode 0 alpha 1).jpg" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
@@ -392,7 +399,7 @@ python prediction_mosaic_dlc_up.py
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">否<br>(纯打码效果)</td>
+      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">否</td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Mosaic%20video%20(mode%200%20alpha%201).mp4" target="_blank">
           <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Mosaic video (mode 0 alpha 1).gif" alt="像素马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;">
@@ -410,7 +417,7 @@ python prediction_mosaic_dlc_up.py
       </td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">是<br>(含分割显示)</td>
+      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">是</td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Inference%20(mode%200%20alpha%201).mp4" target="_blank">
           <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Inference (mode 0 alpha 1).gif" alt="像素马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;">
