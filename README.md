@@ -50,9 +50,9 @@ YOLOv8-Segmentation-Mosaic/
 
 |    版本     |               文件               |            支持打码模式             |                  主要特点                   |   推荐度    |
 |:---------:|:------------------------------:|:-----------------------------:|:---------------------------------------:|:--------:|
-|  v1.0基础版  |     `prediction_mosaic.py`     |      仅支持像素马赛克<br/>（模式0）       |     基础打码功能，仅支持像素马赛克；<br/>不支持透明度调节。      |   ★☆☆    |
-|  v2.0增强版  |   `prediction_mosaic_dlc.py`   |  支持像素、单色、多色马赛克<br/>（模式0、1、2）  |      支持三种打码模式，可自定义颜色；<br/>支持透明度调节。      |   ★★☆    |
-|  v3.0优化版  | `prediction_mosaic_dlc_up.py`  |  支持像素、单色、多色马赛克<br/>（模式0、1、2）  |  在v2.0增强版的基础上，颜色设置统一化，<br/>配置更简洁，推荐使用。  |   ★★★    |
+|  v1.0基础版  |     [prediction_mosaic.py](code/YOLOv8_mosaic/ultralytics-main/prediction_mosaic.py)     |      仅支持像素马赛克<br/>（模式0）       |     基础打码功能，仅支持像素马赛克；<br/>不支持透明度调节。      |   ★☆☆    |
+|  v2.0增强版  |   [prediction_mosaic_dlc.py](code/YOLOv8_mosaic/ultralytics-main/prediction_mosaic_dlc.py)   |  支持像素、单色、多色马赛克<br/>（模式0、1、2）  |      支持三种打码模式，可自定义颜色；<br/>支持透明度调节。      |   ★★☆    |
+|  v3.0优化版  | [prediction_mosaic_dlc_up.py](code/YOLOv8_mosaic/ultralytics-main/prediction_mosaic_dlc_up.py)  |  支持像素、单色、多色马赛克<br/>（模式0、1、2）  |  在v2.0增强版的基础上，颜色设置统一化，<br/>配置更简洁，推荐使用。  |   ★★★    |
 
 ---
 
