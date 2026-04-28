@@ -325,7 +325,7 @@ python prediction_mosaic_dlc_up.py
 <table style="border-collapse: collapse; width: 100%; max-width: 1000px; text-align: center;">
   <thead>
     <tr style="background-color: #f8f9fa;">
-      <th style="padding: 12px; border: 1px solid #dee2e6;">是否同时显示<br/>分割结果</th>
+      <th style="padding: 12px; border: 1px solid #dee2e6; text-align: center; vertical-align: middle;">是否同时显示<br/>分割结果</th>
       <th style="padding: 12px; border: 1px solid #dee2e6;">像素马赛克</th>
       <th style="padding: 12px; border: 1px solid #dee2e6;">单色马赛克</th>
       <th style="padding: 12px; border: 1px solid #dee2e6;">多色马赛克</th>
@@ -333,7 +333,7 @@ python prediction_mosaic_dlc_up.py
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;"><strong>%20否</strong></td>
+      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold; text-align: center !important; vertical-align: middle !important;"><strong>否</strong></td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%200%20alpha%201).jpg" target="_blank">
           <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%200%20alpha%201).jpg" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
@@ -351,7 +351,7 @@ python prediction_mosaic_dlc_up.py
       </td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;"><strong>是</strong></td>
+      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold; text-align: center !important; vertical-align: middle !important;"><strong>是</strong></td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%200%20alpha%201).jpg" target="_blank">
           <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%200%20alpha%201).jpg" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
@@ -391,7 +391,7 @@ python prediction_mosaic_dlc_up.py
 <table style="border-collapse: collapse; width: 100%; max-width: 1000px; text-align: center;">
   <thead>
     <tr style="background-color: #f8f9fa;">
-      <th style="padding: 12px; border: 1px solid #dee2e6;">是否同时显示<br/>分割结果</th>
+      <th style="padding: 12px; border: 1px solid #dee2e6; text-align: center; vertical-align: middle;">是否同时显示<br/>分割结果</th>
       <th style="padding: 12px; border: 1px solid #dee2e6;">像素马赛克</th>
       <th style="padding: 12px; border: 1px solid #dee2e6;">单色马赛克</th>
       <th style="padding: 12px; border: 1px solid #dee2e6;">多色马赛克</th>
@@ -399,7 +399,7 @@ python prediction_mosaic_dlc_up.py
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;"><strong>否</strong></td>
+      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold; text-align: center !important; vertical-align: middle !important;"><strong>否</strong></td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Mosaic%20video%20(mode%200%20alpha%201).mp4" target="_blank">
           <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Mosaic video (mode 0 alpha 1).gif" alt="像素马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;">
@@ -417,7 +417,7 @@ python prediction_mosaic_dlc_up.py
       </td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;"><strong>是</strong></td>
+      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold; text-align: center !important; vertical-align: middle !important;"><strong>是</strong></td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Inference%20(mode%200%20alpha%201).mp4" target="_blank">
           <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Inference (mode 0 alpha 1).gif" alt="像素马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;">
