@@ -1,0 +1,30 @@
+Images: images 
+Category_ids: semantic part segmentation labels 
+Categories: visualized semantic part segmentation labels 
+Human_ids: semantic person segmentation labels 
+Human: visualized semantic person segmentation labels 
+Instance_ids: instance-level human parsing labels 
+Instances: visualized instance-level human parsing labels
+
+Label order of semantic part segmentation:
+
+1.Hat 2.Hair 3.Glove 4.Sunglasses 5.UpperClothes 6.Dress 7.Coat 8.Socks 
+9.Pants 10.Torso-skin 11.Scarf 12.Skirt 13.Face 14.Left-arm 15.Right-arm 
+16.Left-leg 17.Right-leg 18.Left-shoe 19.Right-shoe
+
+
+（有道+deepl）译文：
+
+Images： 图像 
+Category_ids：语义部分分割标签 
+Categories：可视化语义部分分割标签 
+Human_ids：人的语义分割标签 
+Human：可视化语义人分段标签 
+Instance_ids：实例级人类解析标签 
+Instances：可视化实例级人类解析标签
+
+语义部分分割的标签顺序：
+
+1.帽子 2.头发 3.手套 4.太阳镜 5.上衣 6.连衣裙 7.外套 8.袜子
+9.裤子 10.躯干皮肤 11.围巾 12.裙子 13.脸 14.左臂 15.右臂 
+16.左腿 17.右腿 18.左鞋 19.右鞋

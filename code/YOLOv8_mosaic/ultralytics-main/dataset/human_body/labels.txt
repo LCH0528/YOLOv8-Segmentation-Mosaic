@@ -1,0 +1,12 @@
+__ignore__
+_background_
+hat 
+UpperClothes
+pants 
+shoe 
+skirt 
+head
+arm 
+leg 
+body
+
