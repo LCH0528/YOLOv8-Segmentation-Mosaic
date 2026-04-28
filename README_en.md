@@ -50,9 +50,9 @@ This project includes three core version files that illustrate the gradual evolu
 
 |         Version         |             File              |            Supports blurring mode             |                  Key Features                   | Rating |
 |:-----------------------:|:-----------------------------:|:-----------------------------:|:---------------------------------------:|:------:|
-| v1.0<br/> Basic Edition |    `prediction_mosaic.py`     |      Supports only pixel mosaic <br/> (Mode 0)       |     Basic blurring functionality supports only pixel mosaic; does not support transparency adjustment.      |  ★☆☆   |
-|  v2.0 Enhanced Edition  |  `prediction_mosaic_dlc.py`   |  Supports pixel, monochrome, and multicolor mosaics <br/> (modes 0, 1, 2)  |      Supports three blurring modes with customizable colors; supports transparency adjustment.      |  ★★☆   |
-| v3.0 Optimized Version  | `prediction_mosaic_dlc_up.py` |  Supports pixel, monochrome, and multicolor mosaics <br/> (modes 0, 1, 2)  |  Based on the v2.0 Enhanced Edition, color settings have been standardized, and the configuration at is now more streamlined. We recommend using this version.  |  ★★★   |
+| v1.0<br/> Basic Edition |    [prediction_mosaic.py](code/YOLOv8_mosaic/ultralytics-main/prediction_mosaic.py)     |      Supports only pixel mosaic <br/> (Mode 0)       |     Basic blurring functionality supports only pixel mosaic; does not support transparency adjustment.      |  ★☆☆   |
+|  v2.0 Enhanced Edition  |  [prediction_mosaic_dlc.py](code/YOLOv8_mosaic/ultralytics-main/prediction_mosaic_dlc.py)   |  Supports pixel, monochrome, and multicolor mosaics <br/> (modes 0, 1, 2)  |      Supports three blurring modes with customizable colors; supports transparency adjustment.      |  ★★☆   |
+| v3.0 Optimized Version  | [prediction_mosaic_dlc_up.py](code/YOLOv8_mosaic/ultralytics-main/prediction_mosaic_dlc_up.py) |  Supports pixel, monochrome, and multicolor mosaics <br/> (modes 0, 1, 2)  |  Based on the v2.0 Enhanced Edition, color settings have been standardized, and the configuration at is now more streamlined. We recommend using this version.  |  ★★★   |
 
 ---
 
