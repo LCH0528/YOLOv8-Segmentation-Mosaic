@@ -333,7 +333,7 @@ python prediction_mosaic_dlc_up.py
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;"><strong> 否</strong></td>
+      <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;"><strong>%20否</strong></td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%200%20alpha%201).jpg" target="_blank">
           <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%200%20alpha%201).jpg" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
