@@ -305,10 +305,12 @@ python prediction_mosaic_dlc_up.py
 
 ---
 
+<br/>
+
 ## 📸 打码效果展示
 
 <details open>
-<summary><b>1. 图像打码</b></summary>
+<summary style="font-size: 1.17em;"><b>1. 图像打码</b></summary>
 
 <!-- [![输入图像](code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Original image of 其他.jpg)](code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Original image of 其他.jpg) -->
 
@@ -325,17 +327,17 @@ python prediction_mosaic_dlc_up.py
 
 | 是否同时显示<br/>分割结果 | 像素马赛克 | 单色马赛克 | 多色马赛克 |
 |:---:|:---:|:---:|:---:|
-| **否** | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%200%20alpha%201).jpg" target="_blank"><img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%200%20alpha%201).jpg" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%201%20alpha%201).jpg" target="_blank"><img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%201%20alpha%201).jpg" alt="单色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%202%20alpha%201).jpg" target="_blank"><img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%202%20alpha%201).jpg" alt="多色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;"></a> |
-| **是** | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%200%20alpha%201).jpg" target="_blank"><img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%200%20alpha%201).jpg" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%201%20alpha%201).jpg" target="_blank"><img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%201%20alpha%201).jpg" alt="单色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%202%20alpha%201).jpg" target="_blank"><img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%202%20alpha%201).jpg" alt="多色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;"></a> |
+| **否<br/>(纯打码效果)** | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%200%20alpha%201).jpg" target="_blank"><img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%200%20alpha%201).jpg" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%201%20alpha%201).jpg" target="_blank"><img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%201%20alpha%201).jpg" alt="单色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%202%20alpha%201).jpg" target="_blank"><img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%202%20alpha%201).jpg" alt="多色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;"></a> |
+| **是<br>(含分割显示)** | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%200%20alpha%201).jpg" target="_blank"><img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%200%20alpha%201).jpg" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%201%20alpha%201).jpg" target="_blank"><img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%201%20alpha%201).jpg" alt="单色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%202%20alpha%201).jpg" target="_blank"><img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%202%20alpha%201).jpg" alt="多色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;"></a> |
 
-<p align="center"><sub>点击任意图片可查看原图</sub></p>
+<p align="center">点击任意图片可查看原图</p>
 
 </details>
 
 
 
 <details open>
-<summary><b>2. 视频打码</b></summary>
+<summary style="font-size: 1.17em;"><b>2. 视频打码</b></summary>
 
 <div align="center">
 <h3>输入视频</h3>
@@ -350,8 +352,8 @@ python prediction_mosaic_dlc_up.py
 
 | 是否同时显示<br/>分割结果 | 像素马赛克 | 单色马赛克 | 多色马赛克 |
 |:---:|:---:|:---:|:---:|
-| **否** | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Mosaic%20video%20(mode%200%20alpha%201).mp4" target="_blank"><img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Mosaic video (mode 0 alpha 1).gif" alt="像素马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Mosaic%20video%20(mode%201%20alpha%201).mp4" target="_blank"><img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Mosaic video (mode 1 alpha 1).gif" alt="单色马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Mosaic%20video%20(mode%202%20alpha%201).mp4" target="_blank"><img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Mosaic video (mode 2 alpha 1).gif" alt="多色马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;"></a> |
-| **是** | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Inference%20(mode%200%20alpha%201).mp4" target="_blank"><img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Inference (mode 0 alpha 1).gif" alt="像素马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Inference%20(mode%201%20alpha%201).mp4" target="_blank"><img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Inference (mode 1 alpha 1).gif" alt="单色马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Inference%20(mode%202%20alpha%201).mp4" target="_blank"><img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Inference (mode 2 alpha 1).gif" alt="多色马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;"></a> |
+| **否<br/>(纯打码效果)** | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Mosaic%20video%20(mode%200%20alpha%201).mp4" target="_blank"><img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Mosaic video (mode 0 alpha 1).gif" alt="像素马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Mosaic%20video%20(mode%201%20alpha%201).mp4" target="_blank"><img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Mosaic video (mode 1 alpha 1).gif" alt="单色马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Mosaic%20video%20(mode%202%20alpha%201).mp4" target="_blank"><img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Mosaic video (mode 2 alpha 1).gif" alt="多色马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;"></a> |
+| **是<br>(含分割显示)** | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Inference%20(mode%200%20alpha%201).mp4" target="_blank"><img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Inference (mode 0 alpha 1).gif" alt="像素马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Inference%20(mode%201%20alpha%201).mp4" target="_blank"><img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Inference (mode 1 alpha 1).gif" alt="单色马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;"></a> | <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Inference%20(mode%202%20alpha%201).mp4" target="_blank"><img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Inference (mode 2 alpha 1).gif" alt="多色马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;"></a> |
 
 <p align="center">点击任意gif可查看原视频</p>
 
