@@ -319,6 +319,8 @@ python prediction_mosaic_dlc_up.py
   </a>
 </div>
 
+<br/>
+
 <h3 align="center">打码效果</h3>
 
 | 是否同时显示<br/>分割结果 | 像素马赛克 | 单色马赛克 | 多色马赛克 |
@@ -330,15 +332,19 @@ python prediction_mosaic_dlc_up.py
 
 </details>
 
+
+
 <details open>
 <summary><b>2. 视频打码</b></summary>
 
 <div align="center">
 <h3>输入视频</h3>
   <a href="code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Original%20video%20of%20香蕉君鱿鱼游戏一命速通（转载）.mp4" target="_blank">
-    <img src="demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Original%20video%20of%20香蕉君鱿鱼游戏一命速通（转载）.gif" alt="输入视频" style="max-width: 100%; height: auto;">
+    <img src="demo/香蕉君鱿鱼游戏一命速通%EF%BC%88转载%EF%BC%89/gif/screentogif/Online-Convert/Original%20video%20of%20香蕉君鱿鱼游戏一命速通%EF%BC%88转载%EF%BC%89.gif" alt="输入视频" style="max-width: 100%; height: auto;">
   </a>
 </div>
+
+<br/>
 
 <h3 align="center">打码效果</h3>
 
