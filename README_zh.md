@@ -73,14 +73,18 @@ YOLOv8-Segmentation-Mosaic/
 <br/>
 <details open>
 <summary><b>像素马赛克的生成原理图</b></summary>
+           
 <br/>
+           
 ![像素马赛克的生成原理图](PPT和作图/2024.6.2/2024.6.2_21.png)
 </details>
 
 <br/>
 <details open>
 <summary><b>像素、单色、多色马赛克效果图</b></summary>
+           
 <br/>
+
 ![3种打码模式效果图](PPT和作图/2024.6.17/作图/打码模块.png)
 </details>
 
