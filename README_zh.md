@@ -388,17 +388,17 @@ python prediction_mosaic_dlc_up.py
       <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">否<br>(纯打码效果)</td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Mosaic%20video%20(mode%200%20alpha%201).mp4" target="_blank">
-          <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Mosaic video (mode 0 alpha 1).gif" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
+          <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Mosaic video (mode 0 alpha 1).gif" alt="像素马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;">
         </a>
       </td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Mosaic%20video%20(mode%201%20alpha%201).mp4" target="_blank">
-          <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Mosaic video (mode 1 alpha 1).gif" alt="单色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
+          <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Mosaic video (mode 1 alpha 1).gif" alt="单色马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;">
         </a>
       </td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Mosaic%20video%20(mode%202%20alpha%201).mp4" target="_blank">
-          <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Mosaic video (mode 2 alpha 1).gif" alt="多色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
+          <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Mosaic video (mode 2 alpha 1).gif" alt="多色马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;">
         </a>
       </td>
     </tr>
@@ -406,17 +406,17 @@ python prediction_mosaic_dlc_up.py
       <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold;">是<br>(含分割显示)</td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Inference%20(mode%200%20alpha%201).mp4" target="_blank">
-          <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Inference (mode 0 alpha 1).gif" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
+          <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Inference (mode 0 alpha 1).gif" alt="像素马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;">
         </a>
       </td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Inference%20(mode%201%20alpha%201).mp4" target="_blank">
-          <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Inference (mode 1 alpha 1).gif" alt="单色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
+          <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Inference (mode 1 alpha 1).gif" alt="单色马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;">
         </a>
       </td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/video/香蕉君鱿鱼游戏一命速通（转载）/Inference%20(mode%202%20alpha%201).mp4" target="_blank">
-          <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Inference (mode 2 alpha 1).gif" alt="多色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
+          <img src="./demo/香蕉君鱿鱼游戏一命速通（转载）/gif/screentogif/Online-Convert/Inference (mode 2 alpha 1).gif" alt="多色马赛克" style="width: 100%; max-width: 200px; border-radius: 4px;">
         </a>
       </td>
     </tr>
