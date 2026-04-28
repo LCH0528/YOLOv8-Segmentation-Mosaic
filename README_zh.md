@@ -336,17 +336,17 @@ python prediction_mosaic_dlc_up.py
       <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold; text-align: center; vertical-align: middle;">否</td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%200%20alpha%201).jpg" target="_blank">
-          <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic image (mode 0 alpha 1).jpg" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
+          <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%200%20alpha%201).jpg" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
         </a>
       </td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%201%20alpha%201).jpg" target="_blank">
-          <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic image (mode 1 alpha 1).jpg" alt="单色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
+          <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%201%20alpha%201).jpg" alt="单色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
         </a>
       </td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%202%20alpha%201).jpg" target="_blank">
-          <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic image (mode 2 alpha 1).jpg" alt="多色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
+          <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Mosaic%20image%20(mode%202%20alpha%201).jpg" alt="多色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
         </a>
       </td>
     </tr>
@@ -354,17 +354,17 @@ python prediction_mosaic_dlc_up.py
       <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: bold; text-align: center; vertical-align: middle;">是</td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%200%20alpha%201).jpg" target="_blank">
-          <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference (mode 0 alpha 1).jpg" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
+          <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%200%20alpha%201).jpg" alt="像素马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
         </a>
       </td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%201%20alpha%201).jpg" target="_blank">
-          <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference (mode 1 alpha 1).jpg" alt="单色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
+          <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%201%20alpha%201).jpg" alt="单色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
         </a>
       </td>
       <td style="padding: 10px; border: 1px solid #dee2e6;">
         <a href="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%202%20alpha%201).jpg" target="_blank">
-          <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference (mode 2 alpha 1).jpg" alt="多色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
+          <img src="./code/YOLOv8_mosaic/ultralytics-main/predict_files/predict/CIHP/picture/其他/Inference%20(mode%202%20alpha%201).jpg" alt="多色马赛克" style="width: 100%; max-width: 240px; border-radius: 4px;">
         </a>
       </td>
     </tr>
