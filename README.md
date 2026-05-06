@@ -426,4 +426,8 @@ https://sysu-hcp.net/lip/overview.php
 **Q2：实际的实例范围可能会与掩膜有一定偏差。<br/>**
 **A1&A2：请参考[2024.6.17（对指定多个类别打码）.pptx](PPT和作图/2024.6.17/2024.6.17（对指定多个类别打码）.pptx)和以下链接：<br/>**
 https://blog.csdn.net/weixin_46566149/article/details/136367700
+<<<<<<< Updated upstream
 > 记得修改[**plotting.py**](code/YOLOv8_mosaic/ultralytics-main/ultralytics/utils/plotting.py)文件（上传的项目中已经修改好了）
+=======
+> 记得修改[**plotting.py**](code/YOLOv8_mosaic/ultralytics-main/ultralytics/utils/plotting.py)文件（上传的项目中已经修改好了）
+>>>>>>> Stashed changes
